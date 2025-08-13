@@ -1,7 +1,10 @@
-import LoginPage from './LoginPage/page'
-const  Login = () => {
+import React from 'react';
+const HomePage = () => {
   return (
-   <LoginPage />
+    <section className="w-full h-full">
+
+    </section>
   )
 }
-export default Login;
+
+export default HomePage;
